@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm dolggul2 👋
 
 - 🌱 I’m currently learning LLM
 - 📫 How to reach me: dolggul2@gmail.com or [Linkedin](https://www.linkedin.com/in/seokje-kim-743aba32a/)
