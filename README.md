@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning LLM
+- 📫 How to reach me: dolggul2@gmail.com or [Linkedin](https://www.linkedin.com/in/seokje-kim-743aba32a/)
+
 <!--
 **hwarang97/hwarang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
